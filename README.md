@@ -1,5 +1,11 @@
 # Archer Travel Service — Evolution Travel
 
+[![Live Demo](https://img.shields.io/badge/Live-Vercel-black?logo=vercel&logoColor=white)](https://archertravel.vercel.app)
+[![GitHub last commit](https://img.shields.io/github/last-commit/808cadger/archer-travel)](https://github.com/808cadger/archer-travel/commits/main)
+[![GitHub repo size](https://img.shields.io/github/repo-size/808cadger/archer-travel)](https://github.com/808cadger/archer-travel)
+[![GitHub stars](https://img.shields.io/github/stars/808cadger/archer-travel?style=social)](https://github.com/808cadger/archer-travel/stargazers)
+[![Claude Vision](https://img.shields.io/badge/Claude_Vision-Anthropic-D97706?logo=anthropic&logoColor=white)](https://anthropic.com/)
+
 A mobile-first, single-file web app for travel booking with AI-powered identity verification. Built with vanilla HTML, CSS, and JavaScript, using [Claude Vision](https://anthropic.com) to match a selfie against a government-issued ID.
 
 ---
